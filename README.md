@@ -79,3 +79,49 @@ Each team member contributes unique expertise to ensure the project’s success.
 - Conducts user research to improve the interface.
 
 ---
+
+## Technology Stack
+
+The AirBnB Clone project is built with a modern and scalable set of technologies.
+Each technology plays a specific role in delivering a functional and reliable system.
+
+### 1. Django
+- A high-level Python web framework used to build the application’s backend.
+- Provides built-in tools for authentication, admin management, and ORM (Object Relational Mapping).
+- Speeds up development while enforcing best practices.
+
+### 2. PostgreSQL
+- A powerful open-source relational database management system.
+- Stores structured data such as users, properties, reservations, and payments.
+- Provides scalability, security, and support for complex queries.
+
+### 3. GraphQL
+- A query language for APIs that enables clients to request only the data they need.
+- Improves performance by reducing over-fetching or under-fetching of data.
+- Works alongside Django to deliver flexible API endpoints.
+
+### 4. HTML5
+- Used to structure the content of the front-end web pages.
+- Provides semantic elements that make the website accessible and SEO-friendly.
+
+### 5. CSS3
+- Handles the styling and layout of the front-end interface.
+- Ensures the application is visually appealing and responsive across devices.
+
+### 6. JavaScript (ES6+)
+- Adds interactivity and dynamic features to the web pages.
+- Works with GraphQL to fetch and display live data from the backend.
+
+### 7. Bootstrap
+- A front-end framework that speeds up the design process with reusable UI components.
+- Ensures a consistent, responsive design across multiple devices.
+
+### 8. Git & GitHub
+- Git: a version control system that tracks changes in the codebase.
+- GitHub: a platform for collaboration, code review, and repository hosting.
+
+### 9. Docker
+- Provides containerization for consistent development and deployment environments.
+- Ensures the app runs the same way on any system, avoiding dependency issues.
+
+---
